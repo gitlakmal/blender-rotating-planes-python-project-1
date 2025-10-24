@@ -67,3 +67,15 @@ This project creates a visually striking stack of 100 rotating square planes tha
 
 ## 📦 Files Included
 
+
+---
+
+## 🪐 License
+
+Released under the **MIT License** — feel free to modify and use for your own creative or educational projects.
+
+---
+
+✨ *Created with Blender, Python, and a bit of math-driven motion design.*
+
+
